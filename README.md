@@ -45,9 +45,9 @@ _✨ NoneBot 百度NLP集成插件 ✨_
 1. 首先注册并申请百度平台的API
 * 翻译开放平台：http://api.fanyi.baidu.com/product/11 ，之后开启`通用文本翻译功能`
 * 千帆大模型平台：https://console.bce.baidu.com/qianfan/overview ，之后找到`应用接入`选项，创建一个应用；应用默认会开启多个大模型功能，确保`ERNIE-Bot-turbo-0922`是开启的
-* ![qianfan](https://github.com/JekoQ/nonebot-plugin-baidubucket/blob/master/images/qianfan.png)
+* ![qianfan](https://github.com/JekoQ/nonebot-plugin-baidubucket/blob/main/images/qianfan.png)
 * AI开放平台：https://ai.baidu.com/ai-doc/REFERENCE/Ck3dwjgn3 ，创建一个应用，确保`情感倾向分析`，`文本纠错`，`关键词提取`三个功能是开启的
-* ![nlp](https://github.com/JekoQ/nonebot-plugin-baidubucket/blob/master/images/nlp.png)
+* ![nlp](https://github.com/JekoQ/nonebot-plugin-baidubucket/blob/main/images/nlp.png)
 2. 在目录`baidu_api.py`中输入三个平台的密钥key
 3. 如果需要外接其他功能，可以参考 https://console.bce.baidu.com/tools/#/index 中的`实例代码中心`，配置对应功能API接口
 4. 机器人的错误码可以在对应平台的开发者文档中查询，一般是密钥key填写错误
@@ -68,4 +68,4 @@ _✨ NoneBot 百度NLP集成插件 ✨_
 
 ### 效果图
 可以开始和robot对话
-![qq](https://github.com/JekoQ/nonebot-plugin-baidubucket/blob/master/images/qq.png)
+![qq](https://github.com/JekoQ/nonebot-plugin-baidubucket/blob/main/images/qq.png)
