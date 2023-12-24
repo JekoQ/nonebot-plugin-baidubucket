@@ -14,9 +14,6 @@ _✨ NoneBot 百度NLP不全家桶 ✨_
 <a href="./LICENSE">
     <img src="https://img.shields.io/github/license/JekoQ/nonebot-plugin-baidubucket.svg" alt="license">
 </a>
-<a href="https://pypi.python.org/pypi/nonebot-plugin-baidubucket">
-    <img src="https://img.shields.io/pypi/v/nonebot-plugin-baidubucket.svg" alt="pypi">
-</a>
 <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="python">
 
 </div>
