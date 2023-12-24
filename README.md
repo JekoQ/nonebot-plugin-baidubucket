@@ -8,7 +8,7 @@
 
 # nonebot-plugin-baidubucket
 
-_✨ NoneBot 百度NLP集成插件 ✨_
+_✨ NoneBot 百度NLP不全家桶 ✨_
 
 
 <a href="./LICENSE">
@@ -25,7 +25,7 @@ _✨ NoneBot 百度NLP集成插件 ✨_
 ## 📖 介绍
 
 
-百度自然语言处理插件，集合百度翻译/NLP大模型/NLP任务处理等功能
+百度自然语言处理的全家桶（并不全），集合百度翻译/NLP大模型/NLP任务处理等功能
 具体涵盖内容：
 1. 千帆大模型平台
    - [x] 文心一言 ERNIE
